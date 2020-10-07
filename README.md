@@ -54,4 +54,7 @@
   <img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="windows10"/>&nbsp
   <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="vscode"/>
 </span>
+<br>
+<br>
 
+>*Icons by: <a href="https://icons8.com/">Icons8</a>*
