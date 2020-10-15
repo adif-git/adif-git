@@ -11,6 +11,15 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adif-git&langs_count=10&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tech stack I used and currently learning
+#### *Programming Language*
+<span>
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="python"/>&nbsp
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript"/>&nbsp
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="c"/>&nbsp
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="c++"/>&nbsp
+  <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="typescript"/>
+</span>
+
 #### *Frontend*
 <span>
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html"/>&nbsp
@@ -34,6 +43,13 @@
   <img src="https://img.icons8.com/ios/48/000000/mysql-logo.png" alt="mysql"/>
 </span>
 
+#### *Devops*
+<span>
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="docker"/>&nbsp
+  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="kubernetes"/>&nbsp
+  <img src="https://img.icons8.com/color/48/000000/nginx.png" alt="nginx"/>
+</span>
+
 #### *Embedded Systems*
 <span>
   <img src="https://img.icons8.com/color/48/000000/arduino.png" alt="arduino"/>&nbsp
@@ -49,7 +65,6 @@
   <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="photoshop"/>&nbsp
   <img src="https://img.icons8.com/fluent/48/000000/gimp.png" alt="gimp"/>&nbsp
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="git"/>&nbsp
-  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="docker"/>&nbsp
   <img src="https://img.icons8.com/color/48/000000/linux-mint.png" alt="linuxmint"/>&nbsp
   <img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="windows10"/>&nbsp
   <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" alt="vscode"/>
