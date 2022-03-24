@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm Adif. Nice to meet you!:wave:</h1>
 <br>
 <p align="center">
-  <a href="https://adif-git.github.io/profile-page" target="blank">
+  <a href="https://diflab.site" target="blank">
     <img src="https://img.shields.io/badge/-Website-333333?style=flat" alt="ladivab">
   </a>
 </p>
